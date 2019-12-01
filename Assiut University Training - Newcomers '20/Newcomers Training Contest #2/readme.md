@@ -1,2 +1,2 @@
-# Link of the contest:
-[Kattis training #1](https://codeforces.com/group/TyLNzrd4HT/contest/261255)
+# Contest link:
+[Newcomers Training Contest #3](https://codeforces.com/group/TyLNzrd4HT/contest/261255)
