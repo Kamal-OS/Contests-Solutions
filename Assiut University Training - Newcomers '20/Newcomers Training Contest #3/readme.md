@@ -1,2 +1,3 @@
-# Contest link:
-[Newcomers Training Contest #3](https://codeforces.com/group/TyLNzrd4HT/contest/261255)
+
+<h1>GG</h1>
+<a href="https://codeforces.com/group/TyLNzrd4HT/contest/261255">GG</a>
